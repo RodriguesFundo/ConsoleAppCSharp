@@ -21,6 +21,6 @@ class Program
         if (isPrime && num > 1)
             Console.WriteLine("O numero e primo.");
         else
-            Console.WriteLine("O numero nao e primo.");
+            Console.WriteLine("O nmero nao e primo.");
     }
 }
