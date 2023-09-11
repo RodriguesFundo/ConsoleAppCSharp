@@ -13,7 +13,7 @@ Este repositório contém uma coleção de programas simples em C#, divididos em
 * **[Jogo de adivinhação](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/JogoDeAdivinhacao)** - O usuário tenta adivinhar um número escolhido pelo computador.
 * **[Verificação de número primo com função](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificacaoDeNumeroPrimoComFuncao)** - Verifica se um número é primo usando uma função.
 * **[Ordenação de um array de números inteiros em ordem crescente](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/OrdenacaoDeUmArrayDeNumerosInteirosEmOrdemCrescente)** - Ordena um array de números inteiros em ordem crescente.
-* **[Gerenciador de Contatos](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/GerenciadorDeContatos)** - Permite ao usuário gerenciar seus contatos, como adicionar, editar e remover contatos.
+* **[Gerenciador de Contatos](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/GerenciadorDeContactos)** - Permite ao usuário gerenciar seus contatos, como adicionar, editar e remover contatos.
 * **[Lista de Tarefas](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/ListaTarrefas)** - Permite ao usuário gerenciar suas tarefas, como adicionar, editar e remover tarefas.
 * **[Conversor de Unidades](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/ConversorDeUnidades)** - Converte unidades de medidas, como temperatura, comprimento, peso e volume.
 * **[Conta Bancária](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/ContaBancaria)** - Permite ao usuário realizar operações bancárias, como depósito, saque e transferência.
