@@ -9,7 +9,7 @@ Este repositório contém uma coleção de programas simples em C#, divididos em
 * **[Verificação de palíndromo](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificacaoDePalindromo)** - Verifica se uma string é um palíndromo.
 * **[Conversão de decimal para binário](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/ConversaoDeDecimalParaBinario)** - Converte um número decimal para binário.
 * **[Verificação de número primo](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificadorNumeroPrimo)** - Verifica se um número é primo.
-* **[Cálculo do fatorial de um número](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/CalculoDoFatorialDeUmNumero)** - Calcula o fatorial de um número.
+* **[Cálculo do fatorial de um número](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/CalculoFatorial)** - Calcula o fatorial de um número.
 * **[Jogo de adivinhação](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/JogoDeAdivinhacao)** - O usuário tenta adivinhar um número escolhido pelo computador.
 * **[Verificação de número primo com função](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificacaoDeNumeroPrimoComFuncao)** - Verifica se um número é primo usando uma função.
 * **[Ordenação de um array de números inteiros em ordem crescente](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/OrdenacaoDeUmArrayDeNumerosInteirosEmOrdemCrescente)** - Ordena um array de números inteiros em ordem crescente.
