@@ -6,7 +6,7 @@ Este repositório contém uma coleção de programas simples em C#, divididos em
 
 * **[Hello World](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/HelloWorld)** - Imprime a mensagem "Hello, World!" no console.
 * **[Verificação de número par ou ímpar](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificacaoDeNumeroParOuImpar)** - Verifica se um número é par ou ímpar.
-* **[Verificação de palíndromo](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificacaoDePalindromo)** - Verifica se uma string é um palíndromo.
+* **[Verificação de palíndromo](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificacaoDePalindromo)** - Verifica se uma string é um [palíndromo](https://pt.wikipedia.org/wiki/Pal%C3%ADndromo).
 * **[Conversão de decimal para binário](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/ConversaoDeDecimalParaBinario)** - Converte um número decimal para binário.
 * **[Verificação de número primo](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/VerificadorNumeroPrimo)** - Verifica se um número é primo.
 * **[Cálculo do fatorial de um número](https://github.com/RodriguesFundo/ConsoleAppCSharp/tree/main/CalculoFatorial)** - Calcula o fatorial de um número.
